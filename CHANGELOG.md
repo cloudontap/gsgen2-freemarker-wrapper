@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased (2021-07-01)
+## Unreleased (2021-07-09)
 
 #### New Features
 
@@ -63,6 +63,7 @@
 * (ci): quality of life updates
 #### Others
 
+* changelog bump ([#65](https://github.com/hamlet-io/engine-core/issues/65))
 * remove prebuilt jar versions
 * update version
 * (deps): bump commons-io from 2.6 to 2.7 in /freemarker-wrapper
